@@ -1,1 +1,1 @@
-web: heroku/php api/
+api: heroku/php api/
