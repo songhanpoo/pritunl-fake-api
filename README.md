@@ -43,8 +43,8 @@ To run bundle project with mongo
 
 Insert gif or link to demo
 
-![dashboard](https://github.com/songhanpoo/pritunl-fake-api/raw/master/img/dashboard.png)
-![subscription](https://github.com/songhanpoo/pritunl-fake-api/raw/master/img/subscription.png)
+![dashboard](https://github.com/songhanpoo/pritunl-fake-api/blob/main/img/dashboard.png)
+![subscription](https://github.com/songhanpoo/pritunl-fake-api/blob/main/img/subscription.png)
 ## Features
 
 ### Premium
