@@ -41,7 +41,16 @@ To run bundle project with mongo
   
 ## Demo
 
-Insert gif or link to demo
+Settings -> Add subscriptions
+For Premium
+```bash
+ bad premium 
+```
+
+For Enterprise
+```bash
+ active ultimate 
+```
 
 ![dashboard](https://github.com/songhanpoo/pritunl-fake-api/blob/main/img/dashboard.png)
 ![subscription](https://github.com/songhanpoo/pritunl-fake-api/blob/main/img/subscription.png)
