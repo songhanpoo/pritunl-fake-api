@@ -1,10 +1,8 @@
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/songhanpoo/pritunl-fake-api)  
 
-[![Heroku CI Status](https://pritunl-pipeline.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/d7c91e75-e6b2-4219-a61d-075dff112632/tests)
-  
 # Pritunl fake api
 
 This neat script provides a little fake API to unlock all premium/enterprise/enterprise+ (here called ultimate) features of your own Pritunl VPN server. If Pritunl wouldn't be mostly free already, you could call this a crack. An Open Source crack.
