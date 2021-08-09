@@ -3,6 +3,15 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/songhanpoo/pritunl-fake-api)  
 
+FREE FAKE API
+
+```bash
+https://pritunl-p00.herokuapp.com/
+```
+Testing API
+```bash
+curl -XGET https://pritunl-p00.herokuapp.com/healthy
+```
 # Pritunl fake api
 
 This neat script provides a little fake API to unlock all premium/enterprise/enterprise+ (here called ultimate) features of your own Pritunl VPN server. If Pritunl wouldn't be mostly free already, you could call this a crack. An Open Source crack.
