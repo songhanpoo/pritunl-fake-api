@@ -16,7 +16,7 @@ if(isset($_GET['path'])) {
         $result->message = 'Fake API endpoint for v1.30.X active and reachable (contacted at ' . date('r') . ').';
         $result->vpn = false; //Idk
         $result->www = false; //Idk
-    } else preg_match('/healthy.*/', $_GET['path'])) {
+    } else (preg_match('/healthy.*/', $_GET['path'])) {
         $result->message = 'Hello Boy, this api working.';
     } else if(isset($body->license) && preg_match('/subscription.*/', $_GET['path'])) {
         //The following only works with the body containing the desired license
