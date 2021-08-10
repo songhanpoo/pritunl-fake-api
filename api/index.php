@@ -17,7 +17,8 @@ if(isset($_GET['path'])) {
         $result->vpn = false; //Idk
         $result->www = false; //Idk
     } else if (preg_match('/healthy.*/', $_GET['path'])) {
-        $result->message = 'Hello Boy, this api working.';
+        $result = new stdClass;
+        $result->healthy = 'Hello Boy, this api working';
     } else if(isset($body->license) && preg_match('/subscription.*/', $_GET['path'])) {
         //The following only works with the body containing the desired license
         $result = new stdClass;
